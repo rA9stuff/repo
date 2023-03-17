@@ -48,6 +48,19 @@
                     "markdown":"### Client\n\nLiNUZE supports every iDevice libimobiledevice supports, which are all of them!\n\n\n   ### Host\n\nLiNUZE works on iPhones, iPads and iPod Touches from iOS 12.0 to iOS 15.x. Please note that in order to get it working on iOS 15, you need to jailbreak your device using palera1n rootful. Rootless jailbreaks won't work with LiNUZE.",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown":"### Credits\n\n[Libimobiledevice](https://libimobiledevice.org) for libimobiledevice.\n\n   [Serena](https://twitter.com/CoreSerena) and [Opa334](https://twitter.com/opa334dev) for general help with entitlements.\n\n    [Matty](https://twitter.com/moski_dev) for private testing and help.\n\n   [MasterMike](https://twitter.com/MasterMike88) for private testing.\n\n    [screenshots.pro](https://screenshots.pro) for screenshot templates.",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown":"### Like this app?\n\nYou can [support me over patreon](https://www.patreon.com/rA9stuff) for more like this!",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 }
             ]
         },
